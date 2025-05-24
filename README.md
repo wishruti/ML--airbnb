@@ -1,4 +1,4 @@
-# 2025_ia651_kadel
+
 # Airbnb Prices In New York City: Effects of Neighborhood and Customer Reviews on AirBnB Listing Prices
 
 Bishruti Khakurel, Pragyan Kadel
